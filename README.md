@@ -1,4 +1,4 @@
-##Trump Twitter Analysis Using Tableau
+## Trump Twitter Analysis Using Tableau
 
 This repo shows the Twitter account analysis for president Donald Trump since January 2020. 
 Link to tableau public dashboard:
